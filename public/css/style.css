@@ -1,0 +1,61 @@
+body {
+    font-family: "Lato", sans-serif !important;
+    /* font-weight: 700; */
+}
+
+
+
+.bg-custom {
+    background-color: rgb(7, 23, 51);
+}
+
+.card-color {
+    background-color: rgb(7, 23, 51);
+}
+
+.underline {
+    font-size: 2.5rem;
+    font-weight: 700;
+    padding-top: 2rem;
+    border-bottom: 5px solid #5ce0fe;
+    display: inline-block;
+    padding-bottom: 1px;
+  
+}
+
+.form-button{
+    background-color: #5ce0fe;
+    width: 100%;
+    color: rgb(7, 23, 51);
+    font-weight: 900;
+}
+/* .form-button:hover{
+    background-color: rgb(7, 23, 51);
+} */
+
+.icon-style{
+    font-size: 40px;
+    color: #5ce0fe
+}
+
+.button-style{
+    background-color: #5ce0fe;
+    font-weight: 700;
+    color:white;
+}
+
+/* .button-style:hover{
+    background-color: rgb(7, 23, 51);
+} */
+
+.input-field{
+    height: 3em; border-radius: 0px; border-color: black
+}
+                
+              
+
+@media only screen and (min-width: 768px) {
+    .side {
+      margin-left:-12px;
+    }
+  }
