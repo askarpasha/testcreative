@@ -1,11 +1,11 @@
-For Sendgrid .env configuration
+<h4>For Sendgrid .env configuration</h4> <br>
 
-MAIL_MAILER=smtp
-MAIL_HOST=smtp.sendgrid.net
-MAIL_PORT=2525
-MAIL_USERNAME=apikey
-MAIL_PASSWORD=####yourapikey#####  //api key from sendgrid
-MAIL_ENCRYPTION=tls
-MAIL_FROM_ADDRESS="########"  //your verified single sender email ID sendgrid
-MAIL_FROM_NAME="${APP_NAME}"
+<p>MAIL_MAILER=smtp</p>
+<p>MAIL_HOST=smtp.sendgrid.net</p>
+<p>MAIL_PORT=2525</p>
+<p>MAIL_USERNAME=apikey</p>
+<p>MAIL_PASSWORD=####yourapikey#####  //api key from sendgrid</p>
+<p>MAIL_ENCRYPTION=tls</p>
+<p>MAIL_FROM_ADDRESS="########"  //your verified single sender email ID sendgrid</p>
+<p>MAIL_FROM_NAME="${APP_NAME}"</p>
 
